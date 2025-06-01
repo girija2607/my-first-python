@@ -1,2 +1,2 @@
-# my-first-python
+# my-first-portfolio
 this is a simple program
